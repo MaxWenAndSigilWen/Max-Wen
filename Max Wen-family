@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Family</title>
+  <style> 
+  body {
+    background-color:skyblue;
+  }
+  #this {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+  #cat {
+    border-style:solid;
+  }
+  #sigil {
+    border-style:solid;
+  }
+  #dad {
+    border-style:solid;
+  }
+  #mom {
+    border-style:solid;
+  }
+  #introcat {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #introsigil {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #introdad {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #intromom {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #q {
+        font-family: "Courier New", Courier, monospace;
+        background-color: yellow;
+      }
+  </style>
+  </head>
+  <body>
+    <h1 id="this" style="color: slateblue;">This is my family</h1>
+   <div align="center">
+    <table id="teblea">
+      <tr>
+        <th>
+          <img
+            src="https://media.discordapp.net/attachments/833028890220953641/918625031435747378/51212172-98D7-46A2-99C7-91468A9AA923.jpg?width=435&amp;height=580"
+            alt="Image"
+            id="cat"
+            width="200px"
+          />
+        </th>
+        <td id="introcat" style="color: slateblue;">
+          this is my cat!<br />
+          Her name is Little Grey.<br />
+          She is 1 year old and is a girl.<br />
+          She is the best member of my family!
+        </td>
+      </tr>
+    </table>
+    <table id="tebleb">
+      <tr>
+        <th>
+          <img
+            src="https://media.discordapp.net/attachments/833028890220953641/918625166966284329/14B0B337-5555-453F-B175-E9E7A5F1631F.jpg?width=435&amp;height=580"
+            alt="Image"
+            id="sigil"
+            width="200px"
+          />
+        </th>
+        <td id="introsigil" style="color: slateblue;">
+          this is my brother! <br />His name is sigil Wen.<br />
+          He is 18 years old and he is the best! <br />
+          He has 2 companies: Monument and Bitswap! <br />
+          He is the smartest in my family!
+        </td>
+      </tr>
+    </table>
+    <table id="teblec">
+      <tr>
+             
+        <th>
+         
+        <img
+            src="https://media.discordapp.net/attachments/833028890220953641/918625494612738068/7B1FB9C4-4571-470D-BC23-C389D936C152.jpg?width=435&amp;height=580"
+            alt="Image"
+            id="dad"
+            width="200px"
+          >
+        </th>
+        <td id="introdad" style="color: slateblue;">
+          This is my dad! <br/>
+          His name is Aven and he is awesome! <br/>
+          He is 45 and he is the epicest! <br/>
+          He taught me html and he takes care of me!
+        </td>
+
+        
+      </tr>
+    </table>     
+  <table>     
+  <th>
+    <img src="https://media.discordapp.net/attachments/833028890220953641/918625569665589329/F8599318-CECF-40A7-94F0-1CF8220998E9.jpg?width=435&amp;height=580" 
+    alt="Image" 
+    id="mom"
+    width="200px">
+  </th>
+  <td id="intromom" style="color: slateblue;">
+    This is my Mom! <br/>
+    Her name is Sophia and she is awesome! <br/>
+    She is 47 and she is the kindest! <br/>
+    She takes care of me and loves me!
+  </td>
+ 
+
+  
+</tr>
+</table>   
+</div>
+<a href="https://bk9yq.csb.app/" id="q">CLICK HERE TO GO BACK</a>  
+    
+  </body>
+</html>
