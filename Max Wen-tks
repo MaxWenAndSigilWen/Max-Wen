@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>TKS</title>
+    <style>
+      #t {
+        border-style:solid;
+        align-content: center;
+      }
+      #here {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #when {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #my {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+        font-size: 25px;
+      }
+      #back {
+        font-family: "Courier New", Courier, monospace;
+        background-color:yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <table align="center">
+    <th><image src="https://scontent.fyyz1-2.fna.fbcdn.net/v/t1.6435-9/50739453_2315337851811087_3167532543939444736_n.png?_nc_cat=110&ccb=1-5&_nc_sid=973b4a&_nc_ohc=CewOvcrvhLUAX8qwGkq&_nc_ht=scontent.fyyz1-2.fna&oh=133d090bf26c494e3d35e94ee0d3dbf8&oe=61D6EA0E" alt="TKS" width="200px" id="t"></th>
+    </table>
+      <h1 id="here" style="color: blue;">Here is what i HOPE to do in TKS!</h1>
+    <h2 id="when" style="color: blue;">
+      When i become a grade 6 i can join TKS!
+    </h2>
+    <p id="my" >
+      My brother, Sigil Wen, goes to TKS and he <br />
+      says that i can learn steam at TKS! he says that <br />
+      i can learn science outside of school and i think<br />
+      that TKS can help me learn to become a great astronaut
+    </p>
+    <a href="https://bk9yq.csb.app/" id="back">
+      CLICK TO GO BACK 
+    </a>
+  </body>
+</html>
