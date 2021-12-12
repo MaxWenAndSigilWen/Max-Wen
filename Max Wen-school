@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>School</title>
+    <style>
+      #what {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #im {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #i {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+
+        font-size: 25px;
+      }
+      #q {
+        font-family: "Courier New", Courier, monospace;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="what" style="color: green;">What i do for school!</h1>
+    <h2 id="im" style="color: green;">
+      Im currently in grade 5 and hoping for grade 6
+    </h2>
+    <p id="i" style="color: green;">
+      I go to a gifted school in richmond hill!<br />
+      I love to study science, math, and health <br />
+      because i want to go to space! I love school <br />
+      since i can learn instead of staying home and <br />
+      playing games
+    </p>
+    <a href="https://bk9yq.csb.app/" id="q">CLICK HERE TO GO BACK</a>
+  </body>
+</html>
