@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Max Wen</title>
+    <style>
+      #intro {
+        font-family:'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #heres {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        background-color: skyblue;
+      }
+      #teble {
+        text-align:center;
+      }
+      #max {
+        border-style:solid;
+      }
+      #introduction {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #know {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #edu {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+      }
+      #q {
+        font-family: 'Courier New', Courier, monospace;
+        background-color:yellow;
+      }
+      #w {
+        font-family: 'Courier New', Courier, monospace;
+        background-color:seashell;
+      }
+      #fam {
+        font-family: 'Courier New', Courier, monospace;
+        background-color:fuchsia;
+        text-align: center;
+      }
+      #channel {
+        font-family: 'Courier New', Courier, monospace;
+        background-color:crimson;
+        text-align: center;
+      }
+      #games {
+        font-family: 'Courier New', Courier, monospace;
+        background-color:darkkhaki;
+        text-align: center;
+      }
+      #t {
+      
+        border-style:solid;
+        }
+        #quest {
+      
+      border-style:solid;
+      }
+      body {
+        background-color: skyblue;
+      }
+      
+    </style>
+  </head>
+  <body>
+    <h1 id="intro" style="color: gold;">Hello and welcome to my website!</h1>
+    <h2 id="heres" style="color: royalblue;">Here is a paragraph about me!</h2>
+    <div >
+    <table id="teble" align="center">
+      <tr>
+        <th><image id="max" src="https://media.discordapp.net/attachments/833028890220953641/918980490906714183/max.jpeg?width=417&amp;height=579" alt="Max Wen" width="200"></th>
+        <td id="introduction" style="color: slateblue;">Hi, im an eleven year old kid named <strong>Max!</strong> <br />
+          I love science, math, and <strong>space!</strong><br />
+          Im in grade 5 and i <strong>love</strong> school!<td>
+      </tr>
+
+    </table>
+  </div>
+    
+    <h1 id="know" style="color: indigo;">
+      What i do!
+    </h1>
+    <h2 id="edu" style="color: indigo;"> Education!</br>
+    <a href="https://i02yu.csb.app/" id="q">
+    What i do in school
+    </a>
+    
+    <p>  </p>
+      <a href="https://4xehw.csb.app/" id="w">
+      What i hope to do in TKS
+      </a>
+      <h1 id="know"> Personal life!</h1>
+      <p> </p>
+<div style="text-align: center">
+      <a href="https://b8lsv.csb.app/" id="fam">
+        Family
+        </a>
+        <p> </p>
+        <a href="https://5fz5f.csb.app/" id="channel">Social Media</a>
+        <p> </p>
+        <a href="https://61xnb.csb.app/" id="games">Games</a>
+</div>
+<h1>My goals!</h1>
+<h2>Shor term goals</h2>
+   <div align="center">
+      <table >  
+      <tr>
+
+        <th><image src="https://scontent.fyyz1-2.fna.fbcdn.net/v/t1.6435-9/50739453_2315337851811087_3167532543939444736_n.png?_nc_cat=110&ccb=1-5&_nc_sid=973b4a&_nc_ohc=CewOvcrvhLUAX8qwGkq&_nc_ht=scontent.fyyz1-2.fna&oh=133d090bf26c494e3d35e94ee0d3dbf8&oe=61D6EA0E" alt="TKS" width="200px" id="t"></th>
+       <td> One of my goals is to join tks!<br> My goal is to join tks and learn things like science, math, etc!</td>
+        </tr>
+        </table>
+        <table >  
+            <tr>
+      
+              <th><img src="data:image/jpeg;base64,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" alt="Quest 2" width="200px" id="quest"></th>
+             <td> I always wanted to get a vr headset so <br>when i finish this website, my brother will buy me one!</td>
+              </tr>
+              </table>
+              <table >  
+                  <tr>
+            
+                    <th><img src="https://scontent.fyyz1-1.fna.fbcdn.net/v/t1.6435-9/79353552_3056617161143923_5170242220304891904_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=730e14&_nc_ohc=6pOkcII6N2wAX8oMTwO&_nc_ht=scontent.fyyz1-1.fna&oh=00_AT-fHfqojOLZDNgQ6aqq7HkufYuMMyCaU-iewgi1Qz599w&oe=61DC38B8" alt="A+ report card" width="200px" id="quest"></th>
+                   <td> I am currently in grade 5 and i want to get straight A's!</td>
+                    </tr>
+                    </table>
+            </div>
+
+
+
+
+  </body>
+</html>
