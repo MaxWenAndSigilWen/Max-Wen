@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Social Media</title>
+    <style>
+      body {
+        background-color: skyblue;
+      }
+      #start {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #second {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #third {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+      #bacon {
+        border-style: solid;
+      }
+      #stick {
+        background-color: yellow;
+        font-family: "Courier New", Courier, monospace;
+      }
+      #channel {
+        background-color: yellow;
+        font-family: "Courier New", Courier, monospace;
+      }
+      #channelintro {
+        font-family: "Courier New", Courier, monospace;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 id="start" style="color: slateblue;">I only like to use youtube!</h1>
+    <h2 id="second" style="color: slateblue;">
+      I have a channel called Max Wen with 196 subscribers and i love making
+      videos!
+    </h2>
+    <h2 id="third" style="color: slateblue;">here is a link to my channel!</h2>
+    <div style="text-align: center;">
+      <a
+        href="https://www.youtube.com/channel/UCY9e9qa_IH-rKw4nRBxHwPQ"
+        id="stick"
+      >
+        My channel</a
+      >
+    </div>
+    <table id="short" align="center">
+      <tr>
+        <th>
+          <img
+            src="https://media.discordapp.net/attachments/833028890220953641/918988681325465650/unknown.png?width=771&amp;height=580"
+            alt="Image"
+            id="bacon"
+            width="200px"
+          />
+        </th>
+        <td id="channelintro" style="color: slateblue;">
+          I love my channel and making videos brings me joy!<br />
+          I hope i can upload more <br />and eventually reach 1k subs!
+        </td>
+      </tr>
+    </table>
+    <div style="text-align: center;">
+      <a href="https://bk9yq.csb.app/" id="channel">CLICK HERE TO GO BACK</a>
+    </div>
+  </body>
+</html>
