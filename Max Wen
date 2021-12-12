@@ -133,6 +133,22 @@
                     </tr>
                     </table>
             </div>
+            <h1 id="introduction" style="color: slateblue;">Long term goals!</h1>
+            <div align="center">
+            <table>
+              <tr>
+                <th><img src="https://news.mit.edu/sites/default/files/download/201810/MIT-Computer-Announce-01-PRESS.jpg" alt="Massachusetts Institute of Technology" width="200px" id="quest"></th>
+              <td id="introduction" style="color: slateblue;">My first long term goal is to get into MIT (Massachusetts Institute of Technology)!<br> I will study hard and get good grades to hopefully get into MIT!</td>
+              </tr>
+            </table>
+            <table>
+                <tr>
+                  <th><img src="http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" alt=" NASA" width="200px" id="quest"></th>
+                <td id="introduction" style="color: slateblue;">My bigest goal and hardest goal is to get a job at nasa's jet propulsion laboratory and work there as an astrophysicist!<br> I hope that i can eventually see the earth from far above!</td>
+                </tr>
+              </table>
+            </div>
+
 
 
 
