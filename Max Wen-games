@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Games</title>
+    <style> 
+   body {
+     background-color:skyblue;
+   }
+   #div {
+      font-family: "Courier New", Courier, monospace;
+        text-align: center;
+    }
+    #q {
+        font-family: "Courier New", Courier, monospace;
+        background-color: yellow;
+      }
+    </style>
+  </head>
+  <body>
+      <div style="color:slateblue" id="div">
+    <h1>For games i like to play:</h1>
+    
+    <ul>
+      <li>Minecraft</li>
+      <li>Roblox Jailbreak</li>
+      <li>Roblox Entrypoint</li>
+    </ul>
+    <div align="center">
+    <table>
+      <tr>
+        <th><image src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Minecraft-xbox-one.jpg" alt="minecraft bedrock edition" width="200px" id="minecraft"></th>
+      <td>Minecraft is an open world adveture game where you can do anything you like!<br> I like it because it can fell like your in a different world altogether!<br> I play mcpe (minecraft pocket edition) because i like having a bunch of games on 1 device.</td>
+        </tr>
+    </table>
+  
+  <table>
+      <tr>
+        <th><img src="https://m.media-amazon.com/images/S/stores-image-uploads-na-prod/3/AmazonStores/ATVPDKIKX0DER/31ef7e2309108a4d77fb9d2cdb837c20.w1080.h1080.png" alt="ROBLOX Jailbreak" width="200px" id="jailbreak"></th>
+      <td>Roblox Jailbreak is a game where you can be a police or a prisoner hence the name.<br> As a prisoner your objective is to escape and rob places like the bank or the jewelry store! <br> As a police your job is to stop the prisoners from becoming crominals and robing stores!</td>
+        </tr>
+    </table>
+    <table>
+        <tr>
+          <th><img src="https://t2.rbxcdn.com/5df3f3326094bdb12760d1386dafc6ec" alt="Entry Point - Roblox" width="200px"></th>
+        <td>Roblox Entrypoint is a first person rpg.<br> It's like jailbreak but you start in a lobby and you select a mission you want to do! <br> Missions can include robbing a bank or stealing something.<br> In the game you are a part of a criminal orginization and each mission has something to do with the storyline!</td>
+          </tr>
+      </table>
+    </div>
+  </div>
+    <a href="https://bk9yq.csb.app/" id="q">CLICK HERE TO GO BACK</a>
+    
+  </body>
+</html>
